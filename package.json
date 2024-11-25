@@ -1,0 +1,27 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "main": "weather.js",
+  "bin": {
+    "weather": "weather.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node weather.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pengineer",
+  "license": "ISC",
+  "description": "CLI for getting weather",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blocsu/weather-cli.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "bugs": {
+    "url": "https://github.com/blocsu/weather-cli/issues"
+  },
+  "homepage": "https://github.com/blocsu/weather-cli#readme"
+}
