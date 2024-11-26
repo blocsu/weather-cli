@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/blocsu/weather-cli/issues"
   },
-  "homepage": "https://github.com/blocsu/weather-cli#readme"
+  "homepage": "https://github.com/blocsu/weather-cli#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "dedent-js": "^1.0.1"
+  }
 }
